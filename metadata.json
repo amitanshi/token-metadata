@@ -1,0 +1,6 @@
+{
+  "name": "bos",
+  "symbol": "$bos",
+  "description": "Example token from Solana Making a Token guide.",
+  "image": "https://github.com/amitanshi/solanan-image/blob/main/token.png"
+}
