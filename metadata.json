@@ -2,5 +2,5 @@
   "name": "bos",
   "symbol": "$bos",
   "description": "Example token from Solana Making a Token guide.",
-  "image": "https://github.com/amitanshi/solanan-image/blob/main/token.jpg"
+  "image": "https://github.com/amitanshi/solanan-image/blob/f89a37371b3036a7f3de144a311141dca224dec3/token.png"
 }
